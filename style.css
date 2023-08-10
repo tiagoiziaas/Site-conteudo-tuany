@@ -11,7 +11,7 @@ body {
 }
 
 b {
-    color: red;
+    color: rgb(236, 79, 189);
 }
 
 .back {
@@ -61,8 +61,11 @@ main {
 }
 
 .text h1 {
-    color: red;
+    color: rgb(255, 13, 182);
     text-shadow: black 2px 0px 4px;
+}
+.text p{
+    font-size: 20px;
 }
 
 .text p,
@@ -82,7 +85,7 @@ span {
 }
 
 .text span>a>i:hover {
-    color: red;
+    color:  rgb(255, 13, 182);;
 }
 
 .input_box {
@@ -108,7 +111,7 @@ span {
 
 .input_box a:hover {
     top: -5px;
-    border: red solid 1px;
+    border: rgb(209, 16, 48) solid 1px;
 }
 
 .text>span>a>img {
