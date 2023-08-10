@@ -132,3 +132,6 @@ span {
         width: 85vw;
     }
 }
+@media screen and (max-width:380px) {
+    .box{width: 195vw;}
+}
