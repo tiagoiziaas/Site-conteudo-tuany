@@ -126,6 +126,9 @@ span {
         height: 100vh;
     }
     .text span a{
-        margin: 10px 4px;
+        margin: 10px 6px;
+    }
+    .box{
+        width: 85vw;
     }
 }
