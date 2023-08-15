@@ -60,8 +60,10 @@ main {
     text-align: center;
 }
 
+
 .text h1 {
     color: rgb(255, 13, 182);
+    -webkit-color: rgb(255, 13, 182);
     text-shadow: black 2px 0px 4px;
 }
 .text p{
